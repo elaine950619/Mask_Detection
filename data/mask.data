@@ -1,0 +1,5 @@
+classes = 3
+train  = data/train_mask.txt
+valid  = data/test_mask.txt
+names = data/mask.names
+backup = /content/drive/MyDrive/PAS_Coding_Club/Mask_Detection/backup
